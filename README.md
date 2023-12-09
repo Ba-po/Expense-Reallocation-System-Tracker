@@ -11,5 +11,8 @@ Eval Member BSIT-2101
 - B. Clanor, Michael Philip * 25
 - C. Lara, Cris Angelo * 25
 - D. Martinez, Karl Angelo * 25
+
+
+  
 Video Link:
 https://drive.google.com/drive/folders/1sMLAGtKwlJcbBOWKcgQ9Pha5DuD4QSud?usp=drive_link
